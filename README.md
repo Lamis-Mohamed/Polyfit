@@ -1,6 +1,10 @@
 # Polyfit
-Equation Finder for bulk data set 
 
+**Equation Finder for bulk data set (Bulk generator)**
+
+This Code genertes one Excel file containing "the Curve fitting equation parameters" for an input dataset (x,y) for any number of dataset files in CSV format.
+
+for each dataset file , a corresponding sheet in the excel file will be generated containing it's Curve fitting equation parameters.
 
 **Requirements:**
 
